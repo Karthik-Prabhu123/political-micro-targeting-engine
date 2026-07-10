@@ -22,6 +22,22 @@ The system uses a highly structured directory layout to maintain clear separatio
 *   **Supervised Machine Learning (XGBoost Regressor):** Trained a production-grade regression model to predict precinct-level voter turnout percentages on the fly based on changing demographic inputs.
 *   **Visual Presentation (Streamlit & Plotly):** Built an intuitive dashboard displaying calculated metrics and strategic messaging recommendations for field campaigns.
 
+
+---
+
+## 🖥️ Live Dashboard Interface Preview
+
+Below are live captures of the production dashboard, showcasing the interactive geographical grouping data and the predictive machine learning engine:
+
+### 1. Macro-District Persona Analysis & Strategic Playbooks
+![Dashboard Analytics Preview](assets/dashboard_preview.png)
+
+### 2. Live XGBoost Turnout Simulation Testing
+![Machine Learning Simulator Preview](assets/ml_simulator.png)
+
+---
+
+
 ---
 
 ## 🚀 How to Run the Project Locally
